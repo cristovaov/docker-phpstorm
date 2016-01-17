@@ -1,0 +1,6 @@
+---
+Project:
+    name: "docker-phpstorm"
+    vagrant_box: "cristovaov/tenderloin"
+    box_ip: 192.168.50.4
+    box_hostname: "tenderloin"
